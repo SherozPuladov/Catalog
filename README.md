@@ -1,2 +1,2 @@
 # Catalog
-Catalog with REST API, CRUD and e. t.
+Catalog with REST API, CRUD and e. t. c.
